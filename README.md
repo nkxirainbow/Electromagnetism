@@ -1,4 +1,4 @@
-> Physics animations (GGB & HTML). Not standard open source. Personal study only; teaching use requires signed authorization. Commercial use prohibited.
+> Physics animations. Not standard open source. Personal study only; teaching use requires signed authorization. Commercial use prohibited.
 
 ⚠️ IMPORTANT NOTICE | 重要声明
 This is **NOT an OSI-approved open-source license**.
